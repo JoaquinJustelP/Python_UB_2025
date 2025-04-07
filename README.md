@@ -2,6 +2,8 @@
 
 # Introducción a Python
 
+* [Overview](INTRO.pdf)
+  
 ## Notebooks
 
 ### Día 1 - Introducción a Python
