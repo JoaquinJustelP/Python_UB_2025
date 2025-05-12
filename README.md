@@ -20,6 +20,8 @@
   [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JoaquinJustelP/Python_UB_2025/blob/main/Pandas_snippets.ipynb)
 * [Visualización de datos](Visualizacion.ipynb)
   [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JoaquinJustelP/Python_UB_2025/blob/main/Visualizacion.ipynb)
+* [Ejercicio](EjercicioPandasVisualizacion.ipynb)
+  [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JoaquinJustelP/Python_UB_2025/blob/main/EjercicioPandasVisualizacion.ipynb)
 
 
 ## Requerimientos
