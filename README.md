@@ -13,6 +13,11 @@
 * [Numpy](Numpy.ipynb)
   [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JoaquinJustelP/Python_UB_2025/blob/main/Numpy.ipynb)
 
+### Día 2 - Pandas y Visualización de Datos
+* [Pandas](Pandas.ipynb)
+  [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JoaquinJustelP/Python_UB_2025/blob/main/Pandas.ipynb)
+
+
 ## Requerimientos
 Para ejecutar los notebooks en Google Colab, es necesario tener una cuenta de Google y una conexión a Internet. No se requiere la instalación de Python ni de ningún otro software adicional, ya que Colab proporciona una plataforma de Jupyter Notebook en línea.
 
