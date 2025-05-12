@@ -16,6 +16,10 @@
 ### Día 2 - Pandas y Visualización de Datos
 * [Pandas](Pandas.ipynb)
   [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JoaquinJustelP/Python_UB_2025/blob/main/Pandas.ipynb)
+* [Ejemplo Pandas](Pandas_snippets.ipynb)
+  [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JoaquinJustelP/Python_UB_2025/blob/main/Pandas_snippets.ipynb)
+* [Visualización de datos](Visualizacion.ipynb)
+  [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JoaquinJustelP/Python_UB_2025/blob/main/Visualizacion.ipynb)
 
 
 ## Requerimientos
